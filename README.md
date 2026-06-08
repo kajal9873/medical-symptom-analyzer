@@ -2,9 +2,9 @@
 
 An AI-powered web application that predicts diseases based on symptoms using Machine Learning and generates personalized health advice using Groq LLaMA-3.
 
-<img width="1918" height="1148" alt="image" src="https://github.com/user-attachments/assets/7a39e165-bd0f-4920-8a9f-21545a01c779" />
-
 🚀 Live Demo: https://medical-symptom-analyzer-zmwhi5sptjt64nvctuupzf.streamlit.app/
+
+<img width="1918" height="1148" alt="image" src="https://github.com/user-attachments/assets/7a39e165-bd0f-4920-8a9f-21545a01c779" />
 
 ## 🧠 Tech Stack
 | Component | Technology |

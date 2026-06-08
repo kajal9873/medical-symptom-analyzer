@@ -2,8 +2,7 @@
 
 An AI-powered web application that predicts diseases based on symptoms using Machine Learning and generates personalized health advice using Groq LLaMA-3.
 
-## 🚀 Live Demo
-[Click here to try the app](#) *(add your Streamlit Cloud link after deployment)*
+## 🚀 Live Demo: https://medical-symptom-analyzer-zmwhi5sptjt64nvctuupzf.streamlit.app/
 
 ## 🧠 Tech Stack
 | Component | Technology |
